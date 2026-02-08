@@ -16,6 +16,7 @@ const rows = [
   { api: "Dashboard", status: "supported", notes: "Full project management UI" },
   { api: "Database Import", status: "supported", notes: "pg_dump custom & SQL format" },
   { api: "S3 Backups", status: "supported", notes: "Scheduled backups with per-project selection, works with AWS S3, MinIO, R2" },
+  { api: "Admin Panel", status: "supported", notes: "User management, invite system, registration control (open/invite/disabled)" },
   { api: "Row Level Security", status: "supported", notes: "Standard PostgreSQL RLS policies" },
   { api: "Storage", status: "planned", notes: "File/object storage" },
   { api: "Realtime", status: "planned", notes: "WebSocket subscriptions" },
