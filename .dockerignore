@@ -8,6 +8,7 @@
 
 # Docker
 .deploy
+!.deploy/_shared/configs
 docker-compose*.yml
 docker-compose*.yaml
 Dockerfile*
